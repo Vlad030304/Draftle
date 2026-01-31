@@ -192,7 +192,7 @@ const DraftGuesser = () => {
   }, []);
 
   return (
-    <div style={{ minHeight: '100vh', background: '#000', color: '#fff', fontFamily: 'Arial, sans-serif', padding: '24px', margin: 0 }}>
+    <div style={{ minHeight: '100%', height: '100%', background: '#000', color: '#fff', fontFamily: 'Arial, sans-serif', padding: '24px', margin: 0 }}>
       <div style={{ maxWidth: '860px', margin: '0 auto' }}>
         <h1 style={{ textAlign: 'center', fontSize: '32px', fontWeight: 'bold', marginBottom: '6px', letterSpacing: '1px' }}>
           DRAFTLE
